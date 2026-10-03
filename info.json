@@ -1,0 +1,6 @@
+{
+    "author": ["Rob Keck (knkwebservices)"],
+    "install_msg": "Thanks for adding the fallout76-cog repo! Install the `fallout76` cog to get started: `[p]cog install fallout76-cog fallout76`",
+    "short": "Fallout 76 nuke codes and Minerva's schedule.",
+    "description": "A small collection of cogs for Fallout 76 players. Currently includes `fallout76`: live nuke launch codes (via NukaCrypt) and a manually-maintained schedule for Minerva's rotating vendor location."
+}
