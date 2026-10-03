@@ -1,0 +1,20 @@
+{
+    "author": [
+        "Rob Keck (knkwebservices)"
+    ],
+    "min_bot_version": "3.5.0",
+    "description": "Fallout 76 utility commands: current nuke launch codes (via NukaCrypt) and Minerva's rotation schedule.",
+    "hidden": false,
+    "install_msg": "Thanks for installing Fallout76! Try `[p]nukes` to see today's launch codes, or `[p]minerva` for her schedule. Admins can manage the Minerva schedule with `[p]minervaset`.",
+    "requirements": [
+        "aiohttp"
+    ],
+    "short": "Fallout 76 nuke codes and Minerva schedule.",
+    "tags": [
+        "fallout76",
+        "fallout",
+        "game",
+        "utility"
+    ],
+    "type": "COG"
+}
